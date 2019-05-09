@@ -1,4 +1,0 @@
-2019-05-09 04:54:45 INFO  Main:41 - ReferenceError: Can't find variable: chrome[at 73]
-2019-05-09 04:54:45 INFO  Main:41 - TypeError: window.requestFileSystem is not a function. (In 'window.requestFileSystem(window.TEMPORARY, 5 * 1024 * 1024, this.onInitFs, this.errorHandler)', 'window.requestFileSystem' is undefined)[at 1607]
-2019-05-09 04:55:31 INFO  Main:41 - ReferenceError: Can't find variable: chrome[at 73]
-2019-05-09 04:55:32 INFO  Main:41 - TypeError: window.requestFileSystem is not a function. (In 'window.requestFileSystem(window.TEMPORARY, 5 * 1024 * 1024, this.onInitFs, this.errorHandler)', 'window.requestFileSystem' is undefined)[at 1607]
