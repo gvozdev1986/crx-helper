@@ -1,57 +1,0 @@
-
-\javascript:S4030Ì!"?Either use this collection's contents or remove the collection.(—àøÙ
-javascript:S2692À"bThis check ignores index 0; consider using 'includes' method to make this check safe and explicit.(¯ÛÂÖ
-ijavascript:UnusedVariableÇ">Remove the declaration of the unused 'boundKeyRange' variable.(µÙ“…ÿÿÿÿÿ
-Pjavascript:S1854ó"4Remove this useless assignment to local variable "o"(‚ÀÒE
-bjavascript:S1854Ì"@Remove this useless assignment to local variable "boundKeyRange"(Åß¬Ôúÿÿÿÿ
-`javascript:S1854¶'"CRemove this useless assignment to local variable "responseCodeName"( °¢õ
-\javascript:UnusedVariableé"6Remove the declaration of the unused 'label' variable.(Û½±
-„javascript:S2692À"bThis check ignores index 0; consider using 'includes' method to make this check safe and explicit.(å°§—ÿÿÿÿÿ
-gjavascript:UnusedVariableÀ"<Remove the declaration of the unused 'last_update' variable.(­øµ©ıÿÿÿÿ
-fjavascript:UnusedVariable¸";Remove the declaration of the unused 'broadcasts' variable.(ÄŠ™àıÿÿÿÿ
-fjavascript:UnusedVariableï ";Remove the declaration of the unused 'totalChars' variable.(İªŞÅıÿÿÿÿ
-`javascript:UnusedVariableí"5Remove the declaration of the unused 'name' variable.(’ªõİûÿÿÿÿ
-`javascript:S1854—-">Remove this useless assignment to local variable "contentType"(îĞç°ûÿÿÿÿ
-]javascript:S1854ä"@Remove this useless assignment to local variable "boundKeyRange"(€ÁÛÛ
-ljavascript:S2814"ORename "requestStore" as this name is already used in declaration at line 2548.(‘Ã«
-Yjavascript:S1854í"7Remove this useless assignment to local variable "name"(’ªõİûÿÿÿÿ
-Zjavascript:S1854¦!"=Remove this useless assignment to local variable "editorMode"(œÒß’
-ijavascript:UnusedVariableƒ">Remove the declaration of the unused 'boundKeyRange' variable.(êË°Äûÿÿÿÿ
-ajavascript:UnusedVariable‘"6Remove the declaration of the unused 'count' variable.(Î ™¶ùÿÿÿÿ
-\javascript:UnusedVariableª"6Remove the declaration of the unused 'ul_id' variable.(õüŒ›
-bjavascript:S1854Ç"@Remove this useless assignment to local variable "boundKeyRange"(µÙ“…ÿÿÿÿÿ
-ijavascript:UnusedVariableÌ">Remove the declaration of the unused 'boundKeyRange' variable.(Åß¬Ôúÿÿÿÿ
-Bjavascript:S1442¯" Remove this usage of alert(...).(İµü’üÿÿÿÿ
-\javascript:S1854ã":Remove this useless assignment to local variable "version"(¿ Ò×øÿÿÿÿ
-hjavascript:UnusedVariable…"=Remove the declaration of the unused 'oauthIndexes' variable.(åûí’ÿÿÿÿÿ
-javascript:S2692½-"bThis check ignores index 0; consider using 'includes' method to make this check safe and explicit.(Éè‰ 
-_javascript:S1854¸"=Remove this useless assignment to local variable "broadcasts"(ÄŠ™àıÿÿÿÿ
-\javascript:S4030½"?Either use this collection's contents or remove the collection.(ì†ç‚
-…javascript:S4165ë("cReview this useless assignment: "count" already holds the assigned value along all execution paths.(¢™Œ½üÿÿÿÿ
-javascript:S2692½-"bThis check ignores index 0; consider using 'includes' method to make this check safe and explicit.(Éè‰ 
-Vjavascript:S1854à":Remove this useless assignment to local variable "version"(½Ø°
-{javascript:S930½"Z"onFinishExporttingAllData" declared at line 3209 expects 0 arguments, but 1 was provided.(èµÿÜûÿÿÿÿ
-{javascript:S930„"Z"onFinishExporttingAllData" declared at line 3209 expects 0 arguments, but 1 was provided.(èµÿÜûÿÿÿÿ
-\javascript:S4030¶!"?Either use this collection's contents or remove the collection.(—àøÙ
-ijavascript:UnusedVariableğ">Remove the declaration of the unused 'extension_url' variable.(áİÑ…ùÿÿÿÿ
-ajavascript:UnusedVariable¦!";Remove the declaration of the unused 'editorMode' variable.(œÒß’
-bjavascript:S1854ğ"@Remove this useless assignment to local variable "extension_url"(áİÑ…ùÿÿÿÿ
-Wjavascript:UnusedVariableó"2Remove the declaration of the unused 'o' variable.(‚ÀÒE
-Tjavascript:S1854“"7Remove this useless assignment to local variable "that"(Ä¾îĞ
-Yjavascript:S1854ı"<Remove this useless assignment to local variable "algorithm"(ù‘…
-bjavascript:S1854ƒ"@Remove this useless assignment to local variable "boundKeyRange"(êË°Äûÿÿÿÿ
-ˆjavascript:S2703Ê"fAdd the "let", "const" or "var" keyword to this declaration of "jsonlint_postman" to make it explicit.(€Ö‚êúÿÿÿÿ
-‰javascript:S2583ë"lChange this condition so that it does not always evaluate to "true"; some subsequent code is never executed.(Ä‹­´
-Ujavascript:S1854ª"8Remove this useless assignment to local variable "ul_id"(õüŒ›
-Ujavascript:S1854é"8Remove this useless assignment to local variable "label"(Û½±
-`javascript:S1854º'"CRemove this useless assignment to local variable "responseCodeName"(±¾»
-ljavascript:S2814Î"ORename "requestStore" as this name is already used in declaration at line 2484.(‘Ã«
-djavascript:S2814ö"GRename "that" as this name is already used in declaration at line 3699.(Ä¾îĞ
-djavascript:UnusedVariableä">Remove the declaration of the unused 'boundKeyRange' variable.(€ÁÛÛ
-Vjavascript:S1854Ö-"9Remove this useless assignment to local variable "newUrl"(éæî˜
-yjavascript:S2814€"\Rename "launcherNotificationCount" as this name is already used in declaration at line 3433.(æ‘ÆÑ
-djavascript:UnusedVariableê"9Remove the declaration of the unused 'maxCount' variable.(íñŞ¬ûÿÿÿÿ
-`javascript:UnusedVariableı":Remove the declaration of the unused 'algorithm' variable.(ù‘…
-[javascript:UnusedVariable“"5Remove the declaration of the unused 'that' variable.(Ä¾îĞ
-`javascript:S1854À">Remove this useless assignment to local variable "last_update"(­øµ©ıÿÿÿÿ
-[javascript:UnusedVariableŒ)"6Remove the declaration of the unused 'count' variable.(êŞñ]
